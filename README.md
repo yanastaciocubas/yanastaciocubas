@@ -7,7 +7,7 @@
 ---
 
 ### About Me
-I am an undergraduate student at Columbia University interested in the intersection of **technology, science, and social impact**.  
+I am a recent Columbia University graduate interested in the intersection of **technology, science, and social impact**.  
 My work focuses on combining **computer science**, **data science**, and **quantum computing** to address challenges in **public health** and **education**.
 
 ---
