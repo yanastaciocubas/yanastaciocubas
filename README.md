@@ -1,6 +1,6 @@
 # Yonara Anastacio
 
-**Computer Science and Public Health @ Columbia University**  
+**Computer Science & Public Health, Columbia University '26**  
 📍 New York, NY  
 📧 yonara.anastacio@columbia.edu  
 
@@ -8,21 +8,22 @@
 
 ### About Me
 I am a recent Columbia University graduate interested in the intersection of **technology, science, and social impact**.  
-My work focuses on combining **computer science**, **data science**, and **quantum computing** to address challenges in **public health** and **education**.
+I build systems at the intersection of AI, data, and public health: multi-agent LLM pipelines, explainable fraud detection, and real-time fairness auditing for programmatic ad markets. 
 
+Currently open to **Agentic AI Engineering** and **Data Science** roles.
 ---
 
-### Main Interests 
-- Artificial Intelligence and Machine Learning  
-- Data Science for Health and Sustainability
-- Quantum Computing and Quantum-Inspired Algorithms 
+### Main Interests
+- Agentic AI & Multi-Agent Systems
+- Data Science for Health & Sustainability
+- Quantum Computing & Quantum-Inspired Algorithms
 
 
 ---
 
 ### Contact
 📧 **yonara.anastacio@columbia.edu**  
-🔗 [LinkedIn](https://www.linkedin.com/in/yonara-a-59660426a/)
+🔗 [LinkedIn](https://www.linkedin.com/in/yonara-anastacio-cubas/)
 
 
 <!--
