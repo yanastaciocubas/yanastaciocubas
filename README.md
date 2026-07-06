@@ -6,8 +6,7 @@
 
 ---
 
-![Yonara's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanastaciocubas&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanastaciocubas&layout=compact)
+![Yonara's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanastaciocubas)
 
 ---
 
