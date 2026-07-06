@@ -6,10 +6,6 @@
 
 ---
 
-![Yonara's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanastaciocubas)
-
----
-
 ### About Me
 I am a recent Columbia University graduate interested in the intersection of **technology, science, and social impact**.  
 I build systems at the intersection of AI, data, and public health: multi-agent LLM pipelines, explainable fraud detection, and real-time fairness auditing for programmatic ad markets. 
