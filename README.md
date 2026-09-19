@@ -22,7 +22,7 @@ Currently open to **Agentic AI Engineering** and **Data Science** roles.
 ---
 
 ### Contact
-📧 **yonara.anastacio@columbia.edu**  
+📧 **yonaraanastacio@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/yonara-anastacio-cubas/)
 
 
